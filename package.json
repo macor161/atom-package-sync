@@ -1,0 +1,48 @@
+{
+  "name": "atom-package-sync",
+  "main": "./lib/atom-package-sync",
+  "version": "0.0.1",
+  "description": "Synchronize your atom packages easily",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macor161/atom-package-sync"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macor161/atom-package-sync/issues"
+  },
+  "scripts": {
+    "test": "atom --test spec/atom-package-sync.spec.js"
+  },
+  "commits": {
+    "url": "https://github.com/macor161/atom-package-sync/commit"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "keywords": [
+    "packages",
+    "settings",
+    "productivity",
+    "manager",
+    "sync",
+    "backup",
+    "restore"
+  ],
+  "dependencies": {
+    "async": "^2.1.4",
+    "crypto": "0.0.3",
+    "electron-google-oauth": "^2.0.0",
+    "emissary": "~1.3.3",
+    "fetch-mock": "^5.9.4",
+    "github": "^2.1.0",
+    "memory-cache": "^0.1.6",
+    "q": "~1.4.1",
+    "semver": "~5.2.0",
+    "store": "^1.3.20",
+    "underscore-plus": "^1.6.6"
+  },
+  "devDependencies": {
+    "coffeelint": "^1.15.7"
+  }
+}
