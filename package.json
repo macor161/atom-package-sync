@@ -43,6 +43,5 @@
     "underscore-plus": "^1.6.6"
   },
   "devDependencies": {
-    "coffeelint": "^1.15.7"
   }
 }
