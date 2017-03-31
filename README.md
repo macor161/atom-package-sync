@@ -2,8 +2,9 @@
 
 
 Synchronize packages, settings, keymaps, user styles, init script and snippets automatically across [Atom](http://atom.io) instances.
+The code is based on the great *sync-settings* package.
 
-![GitHub Logo](https://cloud.githubusercontent.com/assets/642515/24077085/c527a32c-0c17-11e7-8744-8ed4ab9567fc.gif)
+![GitHub Logo](https://cloud.githubusercontent.com/assets/642515/24177950/451d9896-0e7c-11e7-959f-f6940b64d57d.gif)
 
 
 ## Install
