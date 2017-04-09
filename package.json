@@ -18,7 +18,7 @@
     "url": "https://github.com/macor161/atom-package-sync/commit"
   },
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.9.0 <2.0.0"
   },
   "keywords": [
     "packages",
