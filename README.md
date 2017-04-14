@@ -20,6 +20,10 @@ Or Settings ➔ Packages ➔ Search for `atom-package-sync`
 1. Login with your Google account (Github coming soon)
 2. That's it :)
 
+## Hosting on your own server
+
+If you want to host the synchronization service on your own private server, take a look at [atom-package-sync-server](https://www.github.com/macor161/atom-package-sync-server)
+
 
 ## Contributing
 
