@@ -1,7 +1,7 @@
 {
   "name": "atom-package-sync",
   "main": "./lib/atom-package-sync",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "description": "Synchronize your atom packages easily",
   "repository": {
     "type": "git",
