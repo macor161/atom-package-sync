@@ -1,5 +1,7 @@
 # Atom Package Sync
 
+> 🚩 Due to the increase in popularity of alternative open source IDEs such as VSCode, this Atom package has been deprecated. It is still possible to make it work with a server running [atom-package-sync-server](https://github.com/macor161/atom-package-sync-server), however the default server is now offline. 🚩 
+
 
 Synchronize packages, settings, keymaps, user styles, init script and snippets automatically across [Atom](http://atom.io) instances.
 The code is based on the great *sync-settings* package.
